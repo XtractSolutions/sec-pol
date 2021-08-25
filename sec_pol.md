@@ -1,4 +1,4 @@
-# Xtract Security, Privacy, Computer and Network Policy
+# Xtract Security, Privacy, Computer and Network Policy {#top}
 
 Xtract Solutions is a software provider to the healthcare market and as such our responsibility of securing our clients' and their patients' data is of paramount importance. The following policy outlines Xtract's responsibilities and practices when executing our service to clients, which at times causes us to access and handle confidential health information.
 
@@ -14,7 +14,7 @@ References:
 
 
 
-# Xtract General Privacy and Security Policy
+# Xtract General Privacy and Security Policy {#privacy-security}
 
 ## Operational Responsibilities
 
@@ -98,7 +98,7 @@ If a breach is identified which Xtract has reason to believe is un-encrypted and
   - Covered entities have a host of additional requirements (eg. Notifying the individual affected, Notify the Secretary, and sometimes provide a Media Notice)
 - Xtract will participate actively with the related covered entity(s) affected by a breach of PHI Xtract is responsible for
 	
-# Access Control Policy
+# Access Control Policy {#access-control}
 
 In accordance with HIPAA and the principle of minimum necessary exposure to PHI, the following policy outlines how access to operational tools is granted, managed, and rescinded.
 
@@ -122,7 +122,7 @@ At time of termination, the Director of Operations coordinates an effort to simu
 
 
 
-# Employee Computer & Use Policy
+# Employee Computer & Use Policy {#computer-use}
 
 Computer access is at the core of Xtract operations. Employees are given work computers to fulfill work duties. These guidelines outline how those computers are managed and appropriate use guidelines for all staff members. The requirements of this policy are to be managed by the Director of IT or their designee.
 
@@ -148,7 +148,7 @@ References:
     - The email could be sent to the wrong person
     - The email could be captured electronically en route
   - HIPAA requires that we take reasonable steps to protect against these risks but acknowledges that a balance must be struck between the need to secure PHI and the need to ensure that clinicians can efficiently exchange important patient care information
-    - If a client sends an email containing PHI, instruct them on using just the Xtract-generated patient_id (located in the patient header) going forward
+    - If a client sends an email containing PHI, instruct them on using just the Xtract-generated `patient_id` (located in the patient header) going forward
 - Whenever possible, write down any needed patient information and shred the paper as soon as possible
 
 ## Xtract Data Security Posture
@@ -165,7 +165,7 @@ This is a subsection of the Computer and Use Policy outlining the actual tools u
 
 
 
-# Xtract Physical Security Policy
+# Xtract Physical Security Policy {#physical-security}
 
 Per HIPAA, the physical office (and any of our work computers or workstations outside of the office) requires safeguards to ensure access to PHI is not compromised. These are:
 
@@ -179,7 +179,7 @@ Per HIPAA, the physical office (and any of our work computers or workstations ou
 
 
 
-# Xtract Application Security Policy
+# Xtract Application Security Policy {#application-security}
 
 The following standards and practices will be used in the development and release of Xtract software systems for use by clients. The [Xtract Development Standard Operating Procedure](https://xtractsolutions.github.io/dev-sop/) is intentionally designed to architect secure applications to the best of our collective knowledge and ability.
 
@@ -189,7 +189,7 @@ The following standards and practices will be used in the development and releas
 
 
 
-# Xtract Security Risk Analysis Procedure
+# Xtract Security Risk Analysis Procedure {#risk-analysis}
 
 Under HIPAA there are specific requirements for executing a Security Risk Assessment to identify potential risks to PHI and create plans to address them. These are:
 
@@ -199,14 +199,14 @@ Under HIPAA there are specific requirements for executing a Security Risk Assess
 
 
 
-# Xtract Breach Policy and Procedure
+# Xtract Breach Policy and Procedure {#breach-policy}
 
 - As per HIPAA, Xtract will fulfill responsibilities if a breach is ever suspected or identified
 - Details of the procedure are in the [Xtract Risk Management and Disaster Response Plan](https://docs.google.com/document/d/1ZB4SSXaeHwo2bTfTIX-579HHP3CaA1i58cEsbJpry40/edit?usp=sharing)
 
 
 
-# Release of Information
+# Release of Information {#release-of-information}
 
 Under HIPAA, there are specific requirements for release of PHI  Given Xtract's role as a Business Associate (not a covered entity), there are no cases where PHI can be released. The following principles will season all communication regarding PHI:
 
@@ -217,7 +217,7 @@ Under HIPAA, there are specific requirements for release of PHI  Given Xtract's 
 
 
 
-# Revision History 
+# Revision History {#revision-history}
 
 \# | Description of Revision | Effective Date | Revised By
 -- | ------------------------ | -------------- | ----------
