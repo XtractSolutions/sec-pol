@@ -4,7 +4,7 @@ Xtract Solutions is a software provider to the healthcare market and as such our
 
 This policy is designed to reflect the requirements of *The Health Insurance Portability & Accountability Act 1996* (HIPAA). Xtract is a technology provider to the healthcare industry and thereby a *Business Associate of Covered Entities* (HIPAA terms for vendors who support operations for organizations who actually engage directly with patients), which requires us to meet certain organizational security and process requirements.
 
-Please note that this is an educational document intended to train Xtract employees on our operational obligations, not a statement of legal requirements, and is in no way comprehensive toward that end. All employees should have acute awareness of the aspects of this policy that affect their role at Xtract. Xtract believes in the value of training and a "Culture of Compliance", whereby we take mutual responsibility and share accountability to not just follow these requirements, but believe in them, and exceed them wherever possible.    
+Please note that this is an educational document intended to train Xtract employees on our operational obligations, not a statement of legal requirements, and is in no way comprehensive toward that end. All employees should have acute awareness of the aspects of this policy that affect their role at Xtract. Xtract believes in the value of training and a "Culture of Compliance", whereby we take mutual responsibility and share accountability to not just follow these requirements, but believe in them, and exceed them wherever possible.
 
 References:
 - [Xtract Risk Management and Disaster Response Plan](https://docs.google.com/document/d/1ZB4SSXaeHwo2bTfTIX-579HHP3CaA1i58cEsbJpry40/edit?usp=sharing)
@@ -66,11 +66,11 @@ Xtracts policy calls out specific roles as additional duties for staff members t
 - **Director of Operations** 
   - Responsible for managing team roster and roles, ensuring staff abide by training requirements, and ensuring client contracts and BAA align with these policies and procedures
 - **Director of IT**
-  - Responsible for managing the operational network and Xtract terminals / servers  to ensure they meet the nature of requirements of this policy and procedure, and additionally any legal and ethical requirements of HIPAA
+  - Responsible for managing the operational network and Xtract terminals/servers to ensure they meet the nature of requirements of this policy and procedure, and additionally any legal and ethical requirements of HIPAA
 
 ### Breach Management
 
-Assumed or actual breaches require rigorous investigation and management with legal outcomes based on the circumstances and severity. A breach is defined as “an impermissible use or disclosure that compromises the security or privacy of PHI”.
+Assumed or actual breaches require rigorous investigation and management with legal outcomes based on the circumstances and severity. A breach is defined as "an impermissible use or disclosure that compromises the security or privacy of PHI".
 
 Any time a staff member suspects PHI was used or disclosed outside the appropriate use and access of HIPAA, it should be reported immediately to the Security Officer. In the event that a breach is assumed or actual, the following process will take place and be documented: 
 
@@ -173,7 +173,7 @@ Per HIPAA, the physical office (and any of our work computers or workstations ou
 - Office is locked anytime it's unattended
 - Monitored alarm is armed anytime the building is unattended
 - Alarm notifications are managed by the Security Officer and will be investigated by the Security Officer or their designee
-- The phone tree rings to the CEO, then the President, then the 
+  - The phone tree rings to the CEO, then the President, then the Director of IT
 - Visitors in the building should be monitored at all times by the invitee or their designee
 - Any suspicious activity noted by any employee of a visitor or staff member should be immediately reported to the Security Officer (anonymity will be maintained where desired)
 
@@ -208,17 +208,18 @@ Under HIPAA there are specific requirements for executing a Security Risk Assess
 
 # Release of Information {#release-of-information}
 
-Under HIPAA, there are specific requirements for release of PHI  Given Xtract's role as a Business Associate (not a covered entity), there are no cases where PHI can be released. The following principles will season all communication regarding PHI:
+Under HIPAA, there are specific requirements for the release of PHI. Given Xtract's role as a Business Associate (not a covered entity), there are no cases where PHI can be released. The following principles will season all communication regarding PHI:
 
 - Only discuss PHI with the Client who generated the data
-- As much as possible, refer to data in a de-identified format or using elements not linked to an identifiable patient (Xtract-generated patient_id)
-- If clients have justifiable needs of custom reports, extreme diligence should be exhibited to ensure the data is returned only to the client who generated it.
-- NEVER DISCLOSE PHI TO ANY UNQUALIFIED ENTITY. Ever. There is no justifiable need.
+- As much as possible, refer to data in a de-identified format or using elements not linked to an identifiable patient (Xtract-generated `patient_id`)
+- If clients have justifiable needs of custom reports, extreme diligence should be exhibited to ensure the data is returned only to the client who generated it
+- NEVER DISCLOSE PHI TO ANY UNQUALIFIED ENTITY. Ever. There is no justifiable need
 
 
 
 # Revision History {#revision-history}
 
 \# | Description of Revision | Effective Date | Revised By
--- | ------------------------ | -------------- | ----------
+-- | ----------------------- | -------------- | ----------
 R1 | Initial Policy | 04/15/2021 | Luke Barratt
+R2 | Structure and wording changes, convert to MD format | 08/25/2021 | Addama Sanders
