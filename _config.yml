@@ -1,0 +1,26 @@
+# You can change these
+url: http://xtractsolutions.github.io/sec-pol
+repo: https://github.com/XtractSolutions/sec-pol
+title: Xtract Security, Privacy, Computer and Network Policy
+
+# You should not change these
+plugins:
+ - jekyll-mentions
+ - jemoji
+
+permalink: /:categories/:title
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    default_lang: js
+    span:
+      disable: false
+    block:
+      line_numbers: true
+      start_line: 1
+keep_files: [ images ]
+theme: jekyll-theme-minimal
