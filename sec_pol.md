@@ -142,7 +142,7 @@ References:
 ## Interaction with Client Databases and PHI
 
 - PHI from clients is only to be used in transient states. If PHI is pulled to Xtract machines, it should be purged as soon as it's useful life is complete
-- When using a client database which may include PHI, use the `php artisan anonymize` command as soon as possible
+- When using a client database which may include PHI, use the `php artisan db:anonomize` command as soon as possible
 - Do not send patient PHI in emails to clients
   - Sending PHI by email exposes the PHI to two risks:
     - The email could be sent to the wrong person
